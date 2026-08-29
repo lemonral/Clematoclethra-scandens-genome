@@ -1,0 +1,3 @@
+species	sample_id	asset	format	record_count	total_bp	status
+Clematoclethra scandens	JZP036	Clematoclethra_scandens.genome.fasta.gz	soft-masked FASTA	24	493682713	frozen manuscript reference; public accession pending
+Clematoclethra scandens	JZP036	Clematoclethra_scandens.annotation.gff3.gz	GFF3	35558 genes; 41457 mRNAs	NA	matched structural annotation

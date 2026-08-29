@@ -1,0 +1,10 @@
+# Release assets are attached to GitHub Releases rather than committed to Git.
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.gff
+*.gff.gz
+*.gff3
+*.gff3.gz
+release-assets/

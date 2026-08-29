@@ -1,0 +1,2 @@
+9a47d694136096fd7c96933ef740c88d5b299d2f38695c582311aa3bd553d0de  Clematoclethra_scandens.genome.fasta
+aa29d6af60f00e79bf288fb3af1804c82e4c9be77a8d0dcd7fcb95e437a2fe10  Clematoclethra_scandens.annotation.gff3
